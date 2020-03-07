@@ -1,0 +1,10 @@
+[package]
+name = "tis100node"
+version = "0.1.0"
+authors = ["Mara Bos <m-ou.se@m-ou.se>"]
+edition = "2018"
+
+[dependencies]
+arraymap = "0.1.1"
+nix = "0.17.0"
+structopt = "0.3.11"
